@@ -61,7 +61,7 @@ Before loading the dataset into MySQL Workbench, I performed some preprocessing 
 1. Handling Missing Values:
    * Replaced NA values in columns with NULL to align with SQL's handling of missing data.
 2. Cleaning Text Data:
-   * Removed any quotes (e.g., William ""Bill"" Abbott Jr. in the Name column) from columns to ensure smooth data ingestion.
+   * Removed any quotes (e.g., William ""Bill"" Abbott Jr. in the Name column) from columns to ensure smooth data ingestion into SQL tools like MySQL Workbench.
 
 ## Data Analysis with SQL: Answering Key Questions
 
