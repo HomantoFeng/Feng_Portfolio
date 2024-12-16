@@ -52,3 +52,19 @@ By showcasing these queries, I aim to highlight my ability to work with complex 
 - In which Sport/event, India has won highest medals.
 
 - Break down all olympic games where india won medal for Hockey and how many medals in each olympic games.
+
+## Data Preprocessing
+
+Before loading the dataset into MySQL Workbench, I performed some preprocessing in R (convert_table.rmd) to ensure the data was clean and compatible with SQL operations. This step was necessary to address common data inconsistencies and avoid errors during the import process.
+
+### Key Preprocessing Steps:
+1. Handling Missing Values:
+   * Replaced NA values in columns with NULL to align with SQL's handling of missing data.
+2. Cleaning Text Data:
+   * Removed any quotes (e.g., William ""Bill"" Abbott Jr. in the Name column) from columns to ensure smooth data ingestion.
+
+## Data Analysis with SQL: Answering Key Questions
+
+### How It Works:
+1. The SQL queries, combined into a single file (SQL_for_Q1-20.sql), were executed in MySQL Workbench using the cleaned dataset prepared during the preprocessing step.
+2. Each query is designed to answer a specific question, with results generated directly in MySQL Workbench for analysis and interpretation.
