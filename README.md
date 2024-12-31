@@ -68,3 +68,6 @@ Before loading the dataset into MySQL Workbench, I performed some preprocessing 
 ### How It Works:
 1. The SQL queries, combined into a single file (SQL_for_Q1-20.sql), were executed in MySQL Workbench using the cleaned dataset prepared during the preprocessing step.
 2. Each query is designed to answer a specific question, with results generated directly in MySQL Workbench for analysis and interpretation.
+
+# [Project 2: SQL and Tableau – Insights into Global COVID-19 Case Data](https://github.com/HomantoFeng/COVID_data_explore)![icons8-mysql-logo-48](https://github.com/swaapnaa/SQL-PROJECTS/assets/149737403/95180ab6-019c-4ba1-9165-e9449cb95614)
+
