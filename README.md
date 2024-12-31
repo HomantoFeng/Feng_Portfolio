@@ -71,7 +71,14 @@ Before loading the dataset into MySQL Workbench, I performed some preprocessing 
 
 # [Project 2: SQL and Tableau – Insights into Global COVID-19 Case Data](https://github.com/HomantoFeng/COVID_data_explore)![icons8-mysql-logo-48](https://github.com/swaapnaa/SQL-PROJECTS/assets/149737403/95180ab6-019c-4ba1-9165-e9449cb95614) ![Tableau_Software_Logo_Small_resize](https://github.com/user-attachments/assets/e24b9034-a92c-4863-b15f-a75ff70b0895)
 
+## Dateset Introduction
+Dataset Introduction
+For this project, I utilized the Our World in Data [COVID-19 Dataset](https://docs.owid.io/projects/etl/api/covid/
+), a compact compilation of the most relevant COVID-19 indicators collected over the past few years. This dataset provides a comprehensive overview of global COVID-19 trends, including confirmed cases, deaths, vaccination rates, and testing statistics, making it ideal for exploratory data analysis and visualization.
 
+In this project:
 
-
+- SQL was used to explore and analyze the dataset, extracting meaningful insights and identifying key trends.
+- Tableau was employed to visualize the analysis results, creating interactive and informative dashboards for better data interpretation.
+By combining the analytical power of SQL with the intuitive visualization capabilities of Tableau, this project demonstrates my ability to handle complex data workflows and present insights effectively.
 
