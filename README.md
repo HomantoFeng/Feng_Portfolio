@@ -82,3 +82,11 @@ In this project:
 - Tableau was employed to visualize the analysis results, creating interactive and informative dashboards for better data interpretation.
 By combining the analytical power of SQL with the intuitive visualization capabilities of Tableau, this project demonstrates my ability to handle complex data workflows and present insights effectively.
 
+## Data Preprocessing
+
+Before loading the dataset into MySQL Workbench, I performed some preprocessing in R (convert_table.rmd) using a script named convert_table.rmd to ensure the data was clean and compatible with SQL operations. This step was essential to address common data inconsistencies and avoid errors during the import process.
+
+### Key Preprocessing Steps:
+- Handling Missing Values: Replaced NA values in the dataset with NULL to align with SQL's handling of missing data.
+- Data Type Conversion: Converted columns with the integer64 type to double to avoid compatibility issues during SQL ingestion.
+
