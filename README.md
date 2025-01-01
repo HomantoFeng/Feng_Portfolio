@@ -90,3 +90,11 @@ Before loading the dataset into MySQL Workbench, I performed some preprocessing 
 - Handling Missing Values: Replaced NA values in the dataset with NULL to align with SQL's handling of missing data.
 - Data Type Conversion: Converted columns with the integer64 type to double to avoid compatibility issues during SQL ingestion.
 
+## SQL Queries for Tableau: Creating Visualization-Ready Data
+
+### How It Works:
+1. The SQL queries, consolidated into a single file (COVID_queries.sql), were executed in MySQL Workbench using the cleaned dataset prepared during the preprocessing step.
+2. These queries were designed to generate datasets that can be exported as CSV or Excel files, ready for visualization in Tableau.
+
+## COVID-19 Cases Dashboard![COVID_Analysis](https://github.com/user-attachments/assets/d1e2b80c-4707-470f-8af8-c07ddc3b3313)
+ 
