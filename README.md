@@ -1,6 +1,5 @@
 # Feng_Portfolio
-8+ years of experience in big data analysis using Python, R and SQL, with strong proficiency in statistical modeling, data visualization, and data manipulation
-Portfolio for Feng Feng
+
 # [Project 1: SQL Insights – Exploring 120 Years of Olympic Data](https://github.com/HomantoFeng/SQL-Insights-Exploring-the-120-Years-of-Olympics-Dataset) ![icons8-mysql-logo-48](https://github.com/swaapnaa/SQL-PROJECTS/assets/149737403/95180ab6-019c-4ba1-9165-e9449cb95614)
 
 ## Dateset Introduction
