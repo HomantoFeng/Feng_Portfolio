@@ -1,10 +1,14 @@
 title: Feng Feng
 logo: /assets/img/valley.png
-description: I specialize in data analysis, statistical modeling, and data visualization using Python, R, SQL, and Tableauxxx.
+description: I specialize in data analysis, statistical modeling, and data visualization using Python, R, SQL, and Tableau.
 theme: jekyll-theme-minimal #jekyll-theme-leap-day #jekyll-theme-hacker #Jekyll-theme-minimal
 
 # Footer settings
-footer: |
-  <p>
-    <a href="http://www.linkedin.com/in/fengfengus/" target="_blank">LinkedIn</a>
-  </p>
+# footer: |
+#   <p>
+#     <a href="http://www.linkedin.com/in/fengfengus/" target="_blank">LinkedIn</a>
+#   </p>
+
+social_links:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/your-profile
