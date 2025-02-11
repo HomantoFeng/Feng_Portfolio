@@ -118,3 +118,16 @@ Before importing the datasets into MySQL Workbench, I performed preprocessing in
 ![image](https://github.com/user-attachments/assets/b99c64ff-ef3b-4350-95f4-3aeef67a9ed2)
 
 # [Project 4: Python <sup>![python_logo](https://github.com/user-attachments/assets/5dd7e742-c458-4433-a35e-0f1be191dcc4)</sup> Visualization Toolkit – Exploring Data with Sankey in Drinking Water Distribution System (DWDS)](https://github.com/HomantoFeng/Sankey_Diagram_DWDS)
+
+This project demonstrates a Python-based approach to replicating the Sankey Diagram that was originally presented in Figure 5 (top panel) of the study:
+
+[Feng, F., (2025). Machine learning to assess and support safe drinking water supply: a systematic review. Journal of Environmental Chemical Engineering, 13(1), 114481.
+](https://www.sciencedirect.com/science/article/pii/S2213343724026125)
+
+While the study included the Sankey diagram, the underlying Python script used to generate it was not published. This project provides an opportunity to showcase the original script I developed for visualizing the flow dynamics within a Drinking Water Distribution System (DWDS).
+
+## Key Highlights:
+Reproducing a Published Visualization – Demonstrates how the Sankey diagram from the study was generated using Python.
+Open-Source and Reproducible – Makes the original unpublished script available for others to use and modify.
+Efficient and Concise Implementation – The script is lightweight (~40 lines) yet effectively captures complex flow relationships.
+Practical Application in Water Systems – Highlights the use of Sankey diagrams to analyze and communicate data in DWDS research.
