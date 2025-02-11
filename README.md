@@ -130,3 +130,5 @@ While the study included the Sankey diagram, the underlying Python script used t
 - Reproducing a Published Visualization: Lightweight script Demonstrates [Sankey_for_DWDS.py](https://github.com/HomantoFeng/Sankey_Diagram_DWDS/blob/main/Sankey_for_DWDS.py) how the Sankey diagram from the study was generated using Python.
 - Open-Source and Reproducible: Makes the original unpublished script available for others to use and modify.
 - Practical Application in Water Systems: Highlights the use of Sankey diagrams to analyze and communicate data in DWDS research.
+## Generated Sankey Diagram
+![sankey_screenshot1](https://github.com/user-attachments/assets/2f4fa89d-6285-418b-8586-8401437cb111)
