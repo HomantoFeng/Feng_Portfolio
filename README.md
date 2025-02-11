@@ -127,7 +127,6 @@ This project demonstrates a Python-based approach to replicating the Sankey Diag
 While the study included the Sankey diagram, the underlying Python script used to generate it was not published. This project provides an opportunity to showcase the original script I developed for visualizing the flow dynamics within a Drinking Water Distribution System (DWDS).
 
 ## Key Highlights:
-Reproducing a Published Visualization – Demonstrates how the Sankey diagram from the study was generated using Python.
-Open-Source and Reproducible – Makes the original unpublished script available for others to use and modify.
-Efficient and Concise Implementation – The script is lightweight (~40 lines) yet effectively captures complex flow relationships.
-Practical Application in Water Systems – Highlights the use of Sankey diagrams to analyze and communicate data in DWDS research.
+- Reproducing a Published Visualization: [Lightweight script Demonstrates](https://github.com/HomantoFeng/Sankey_Diagram_DWDS/blob/main/Sankey_for_DWDS.py) how the Sankey diagram from the study was generated using Python.
+- Open-Source and Reproducible: Makes the original unpublished script available for others to use and modify.
+- Practical Application in Water Systems: Highlights the use of Sankey diagrams to analyze and communicate data in DWDS research.
