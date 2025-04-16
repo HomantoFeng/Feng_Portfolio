@@ -131,3 +131,7 @@ While the study included the Sankey diagram, the underlying Python script used t
 - Practical Application in Water Systems: Highlights the use of Sankey diagrams to analyze and communicate data in DWDS research.
 ## Generated Sankey Diagram
 ![sankey_screenshot1](https://github.com/user-attachments/assets/2f4fa89d-6285-418b-8586-8401437cb111)
+
+# [Project 5: Supervised Learning for Employee Attrition Prediction](https://github.com/HomantoFeng/ML-for-Employee-Attrition-Prediction) <sup>![python_logo](https://github.com/user-attachments/assets/5dd7e742-c458-4433-a35e-0f1be191dcc4)</sup>
+
+The goal of this project is to analyze the [HR department dataset](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction) and build predictive models to assess the likelihood of employee attrition. In addition, the project compares the performance of various models—balancing both accuracy and interpretability—to recommend the most effective approach for this task. Three models were built in this project: **Logistic Regression**, **Decision Tree** and **Random Forest**.
